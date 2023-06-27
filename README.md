@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ### Let's give this task list thing a try
 
-- [ ] Check candidate tasks
+- [x] Check candidate tasks
 - [ ] Emails
