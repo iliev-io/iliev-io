@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Let's give this task list thing a try
+
+- [ ] Check candidate tasks
+- [ ] Emails
